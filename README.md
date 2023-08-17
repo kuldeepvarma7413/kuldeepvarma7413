@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kul deep varma. 
-- 👀 I’m interested in web development.
+- 👀 I’m interested in web development and android development.
 - 🌱 I’m currently learning programming languages and working on my skills.
 - 💞️ I’m looking to collaborate on projects regarding inhancing skills.
 - 📫 How to reach me : you can find me
