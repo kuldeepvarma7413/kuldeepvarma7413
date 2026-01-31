@@ -49,10 +49,3 @@ Backend • Fintech • Distributed Systems
 ### 🌐 Links
 - 🔗 LinkedIn: https://www.linkedin.com/in/kul-deep-varma-4150bb225  
 - 📄 Resume: https://drive.google.com/file/d/1ku_emR0tdGLg_w9S_jfRJ9XesTkMJpFp/view
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuldeepvarma7413&show_icons=true&hide_border=true" />
-</p>
