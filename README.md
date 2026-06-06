@@ -48,4 +48,4 @@ Backend • Fintech • Distributed Systems
 
 ### 🌐 Links
 - 🔗 LinkedIn: https://www.linkedin.com/in/kul-deep-varma-4150bb225  
-- 📄 Resume: https://drive.google.com/file/d/1ku_emR0tdGLg_w9S_jfRJ9XesTkMJpFp/view
+- 📄 Resume: https://drive.google.com/file/d/1979B_JJJxDpgTAHhHGTp_GGr2b2XMlgv/view?usp=sharing
