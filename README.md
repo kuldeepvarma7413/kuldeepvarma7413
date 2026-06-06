@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Kuldeep Varma 👋</h2>
 
 <p align="center">
-Associate Software Development Engineer at <b>Jupiter Money</b><br/>
+Software Development Engineer 1 at <b>Jupiter Money</b><br/>
 Backend • Fintech • Distributed Systems
 </p>
 
