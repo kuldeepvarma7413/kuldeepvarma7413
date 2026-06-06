@@ -4,9 +4,9 @@
 Software Development Engineer 1 at <b>Jupiter Money</b><br/>
 Backend • Fintech • Distributed Systems
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shraddhagupta525&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepvarma7413" /> </p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddhagupta525&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepvarma7413" /> </p>
 ### 👨‍💻 About Me
 - Backend-focused engineer working on **fintech systems** across lending, payments, and collections  
 - Building **scalable, production-grade services** using Kotlin, Spring Boot, AWS, Kafka, and Kubernetes  
